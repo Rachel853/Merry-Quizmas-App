@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizProject</string>
+    <string name="correct_answer">"That's the correct answer!"</string>
+    <string name="incorrect_answer">"Oops, that's incorrect. "</string>
+</resources>
